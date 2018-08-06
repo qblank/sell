@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.qblank.springdemo.domain.mapper.ProductCategoryMapper">
+    <resultMap id="BaseResultMap" type="cn.qblank.springdemo.domain.ProductCategory">
+        <id column="category_id" jdbcType="INTEGER" property="categoryId" />
+        <id column="category_name" jdbcType="VARCHAR" property="categoryName"/>
+        <id column="category_type" jdbcType="INTEGER" property="categoryType"></id>
+    </resultMap>
+
+    <select id="selectAllCategory" resultMap="BaseResultMap" parameterType="java.lang.Integer">
+        SELECT category_id,category_name,category_type
+          FROM product_category
+    </select>
+</mapper>
+

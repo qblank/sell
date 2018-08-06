@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Class-Path: json-20140107.jar commons-lang-2.5.jar logback-classic-1.1
+ .11.jar spring-beans-4.3.8.RELEASE.jar hibernate-jpa-2.1-api-1.0.0.Fi
+ nal.jar spring-boot-starter-jdbc-1.5.3.RELEASE.jar javax.transaction-
+ api-1.2.jar spring-boot-starter-tomcat-1.5.3.RELEASE.jar httpclient-4
+ .5.2.jar spring-boot-1.5.3.RELEASE.jar spring-jdbc-4.3.8.RELEASE.jar 
+ jcl-over-slf4j-1.7.25.jar spring-boot-starter-1.5.3.RELEASE.jar jacks
+ on-core-2.8.8.jar spring-web-4.3.8.RELEASE.jar spring-data-commons-1.
+ 13.3.RELEASE.jar httpmime-4.5.2.jar commons-logging-1.1.1.jar snakeya
+ ml-1.17.jar spring-webmvc-4.3.8.RELEASE.jar spring-test-4.3.8.RELEASE
+ .jar jackson-databind-2.8.8.jar spring-boot-starter-data-jpa-1.5.3.RE
+ LEASE.jar mysql-connector-java-5.1.41.jar hibernate-core-5.0.12.Final
+ .jar jandex-2.0.0.Final.jar hibernate-entitymanager-5.0.12.Final.jar 
+ httpcore-4.4.3.jar spring-core-4.3.8.RELEASE.jar tomcat-embed-websock
+ et-8.5.14.jar spring-boot-starter-logging-1.5.3.RELEASE.jar jackson-a
+ nnotations-2.8.0.jar ezmorph-1.0.6.jar spring-boot-starter-freemarker
+ -1.5.3.RELEASE.jar commons-codec-1.10.jar junit-4.12.jar javassist-3.
+ 21.0-GA.jar dom4j-1.6.1.jar validation-api-1.1.0.Final.jar spring-boo
+ t-test-1.5.3.RELEASE.jar commons-beanutils-1.9.3.jar jboss-logging-3.
+ 3.1.Final.jar spring-boot-starter-web-1.5.3.RELEASE.jar tomcat-jdbc-8
+ .5.14.jar spring-boot-autoconfigure-1.5.3.RELEASE.jar classmate-1.3.3
+ .jar tomcat-embed-core-8.5.14.jar spring-orm-4.3.8.RELEASE.jar spring
+ -data-jpa-1.11.3.RELEASE.jar tomcat-embed-el-8.5.14.jar gson-2.8.0.ja
+ r spring-context-support-4.3.8.RELEASE.jar spring-aop-4.3.8.RELEASE.j
+ ar freemarker-2.3.26-incubating.jar commons-collections-3.2.2.jar log
+ 4j-over-slf4j-1.7.25.jar logback-core-1.1.11.jar jul-to-slf4j-1.7.25.
+ jar lombok-1.16.16.jar hibernate-commons-annotations-5.0.1.Final.jar 
+ aspectjweaver-1.8.10.jar spring-boot-starter-aop-1.5.3.RELEASE.jar sp
+ ring-boot-devtools-1.5.3.RELEASE.jar spring-aspects-4.3.8.RELEASE.jar
+  spring-expression-4.3.8.RELEASE.jar spring-context-4.3.8.RELEASE.jar
+  hibernate-validator-5.3.5.Final.jar hamcrest-core-1.3.jar antlr-2.7.
+ 7.jar tomcat-juli-8.5.14.jar spring-tx-4.3.8.RELEASE.jar slf4j-api-1.
+ 7.25.jar
+Main-Class: cn.qblank.springdemo.SpringDemoApplication
+
